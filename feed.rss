@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <atom:link href="https://faircamp.tapedrop.com/feed.rss" rel="self" type="application/rss+xml"/>
+        <description>A faircamp-based music catalog</description>
+        
+        <language>en</language>
+        <lastBuildDate>Fri, 20 Oct 2023 21:13:46 +0000</lastBuildDate>
+        <link>https://faircamp.tapedrop.com/</link>
+        <title>Roldy Clark</title>
+        
+        <item>
+    <description>A release by Roldy Clark</description>
+    <guid>https://faircamp.tapedrop.com/psychosomatic-love</guid>
+    <link>https://faircamp.tapedrop.com/psychosomatic-love</link>
+    <title>Psychosomatic Love</title>
+</item>
+<item>
+    <description>A release by Roldy Clark</description>
+    <guid>https://faircamp.tapedrop.com/15-years-of-beats</guid>
+    <link>https://faircamp.tapedrop.com/15-years-of-beats</link>
+    <title>15 Years of Beats</title>
+</item>
+<item>
+    <description>A release by Roldy Clark</description>
+    <guid>https://faircamp.tapedrop.com/spooky-girl</guid>
+    <link>https://faircamp.tapedrop.com/spooky-girl</link>
+    <title>Spooky Girl</title>
+</item>
+<item>
+    <description>A release by Roldy Clark</description>
+    <guid>https://faircamp.tapedrop.com/shmorgusbord</guid>
+    <link>https://faircamp.tapedrop.com/shmorgusbord</link>
+    <title>Shmorgusbord</title>
+</item>
+<item>
+    <description>A release by Roldy Clark</description>
+    <guid>https://faircamp.tapedrop.com/jersey-plates</guid>
+    <link>https://faircamp.tapedrop.com/jersey-plates</link>
+    <title>Jersey Plates</title>
+</item>
+<item>
+    <description>A release by Roldy Clark</description>
+    <guid>https://faircamp.tapedrop.com/sushi-and-pizza</guid>
+    <link>https://faircamp.tapedrop.com/sushi-and-pizza</link>
+    <title>Sushi and Pizza</title>
+</item>
+    </channel>
+</rss>
