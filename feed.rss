@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <atom:link href="https://faircamp.tapedrop.com/feed.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://roldyclark.com/feed.rss" rel="self" type="application/rss+xml"/>
         <description>A faircamp-based music catalog</description>
         
         <language>en</language>
-        <lastBuildDate>Sat, 21 Oct 2023 00:54:16 +0000</lastBuildDate>
-        <link>https://faircamp.tapedrop.com/</link>
-        <title>Tapedrop</title>
+        <lastBuildDate>Sat, 21 Oct 2023 01:35:33 +0000</lastBuildDate>
+        <link>https://roldyclark.com/</link>
+        <title>Roldy Clark</title>
         
         <item>
     <description>A release by Roldy Clark</description>
-    <guid>https://faircamp.tapedrop.com/psychosomatic-love</guid>
-    <link>https://faircamp.tapedrop.com/psychosomatic-love</link>
+    <guid>https://roldyclark.com/psychosomatic-love</guid>
+    <link>https://roldyclark.com/psychosomatic-love</link>
     <title>Psychosomatic Love</title>
 </item>
 <item>
     <description>A release by Roldy Clark</description>
-    <guid>https://faircamp.tapedrop.com/15-years-of-beats</guid>
-    <link>https://faircamp.tapedrop.com/15-years-of-beats</link>
+    <guid>https://roldyclark.com/15-years-of-beats</guid>
+    <link>https://roldyclark.com/15-years-of-beats</link>
     <title>15 Years of Beats</title>
 </item>
 <item>
     <description>A release by Roldy Clark</description>
-    <guid>https://faircamp.tapedrop.com/spooky-girl</guid>
-    <link>https://faircamp.tapedrop.com/spooky-girl</link>
+    <guid>https://roldyclark.com/spooky-girl</guid>
+    <link>https://roldyclark.com/spooky-girl</link>
     <title>Spooky Girl</title>
 </item>
 <item>
     <description>A release by Roldy Clark</description>
-    <guid>https://faircamp.tapedrop.com/shmorgusbord</guid>
-    <link>https://faircamp.tapedrop.com/shmorgusbord</link>
+    <guid>https://roldyclark.com/shmorgusbord</guid>
+    <link>https://roldyclark.com/shmorgusbord</link>
     <title>Shmorgusbord</title>
 </item>
 <item>
     <description>A release by Roldy Clark</description>
-    <guid>https://faircamp.tapedrop.com/jersey-plates</guid>
-    <link>https://faircamp.tapedrop.com/jersey-plates</link>
+    <guid>https://roldyclark.com/jersey-plates</guid>
+    <link>https://roldyclark.com/jersey-plates</link>
     <title>Jersey Plates</title>
 </item>
 <item>
     <description>A release by Roldy Clark</description>
-    <guid>https://faircamp.tapedrop.com/sushi-and-pizza</guid>
-    <link>https://faircamp.tapedrop.com/sushi-and-pizza</link>
+    <guid>https://roldyclark.com/sushi-and-pizza</guid>
+    <link>https://roldyclark.com/sushi-and-pizza</link>
     <title>Sushi and Pizza</title>
 </item>
     </channel>

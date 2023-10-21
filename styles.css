@@ -1,6 +1,6 @@
 :root {
-    --link-h: 232deg;
-    --tint-back: 0;
+    --link-h: 206deg;
+    --tint-back: 36;
     --tint-front: 1;
     
     --background-h: var(--link-h);
