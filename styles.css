@@ -1,31 +1,31 @@
 :root {
-    --link-h: 0deg;
+    --link-h: 232deg;
     --tint-back: 0;
-    --tint-front: 0;
+    --tint-front: 1;
     
     --background-h: var(--link-h);
-    --background-l: 90%;
+    --background-l: 10%;
     --background-s: calc(41% * (var(--tint-back) / 100));
     --cover-border-radius: 0;
     --cover-h: var(--link-h);
-    --cover-l: 87%;
+    --cover-l: 13%;
     --cover-s: calc(35% * (var(--tint-front) / 100));
-    --header-a: 0.9;
-    --header-l: 90%;
-    --header-link-l: 14%;
+    --header-a: 0.8;
+    --header-l: 10%;
+    --header-link-l: 86%;
     --header-shadow-a: 0;
-    --header-text-l: 14%;
-    --link-l: 42%;
+    --header-text-l: 72%;
+    --link-l: 100%;
     --link-s: 100%;
-    --link-hover-l: 48%;
+    --link-hover-l: 82%;
     --muted-h: var(--link-h);
-    --muted-l: 68%;
+    --muted-l: 23%;
     --muted-s: calc(35% * (var(--tint-front) / 100));
     --nav-s: calc(17% * (var(--tint-front) / 100));
     --overlay-a: 90;
-    --release-additional-a: 0.03;
+    --release-additional-a: 0.02;
     --text-h: 0deg;
-    --text-l: 14%;
+    --text-l: 86%;
     --text-s: calc(94% * (var(--tint-front) / 100));
 }
 @font-face {
